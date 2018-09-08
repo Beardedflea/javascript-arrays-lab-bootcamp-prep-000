@@ -32,6 +32,7 @@ var name = 'Arnold';
 
 function prependKitten(name){
   return [(name), ...kittens];
+<<<<<<< HEAD
 }
 
 function removeLastKitten(){
@@ -48,3 +49,6 @@ function removeFirstKitten(){
 
 
 
+=======
+}
+>>>>>>> dbaf01a9988abfcf3af766449560c5b9cc003bb6
